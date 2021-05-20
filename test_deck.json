@@ -1,0 +1,6 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {"type":"Feature","properties":{"name":"TEST","flows":{"1":2},"centroid":[112.5,22.5,0]},"geometry":{"type":"MultiPolygon","coordinates":[[[[112,22],[112,23],[113,23],[113,22]]]]}},
+ ]
+}
